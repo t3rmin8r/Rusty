@@ -23,4 +23,6 @@ to Sharpen my skillset.
 
 3. I started watching the YouTube video ![rusty/Assets/Learn Rust Programming in 2 Hors.png](https://youtu.be/RU7BYxmSBNg?si=ZcgmrurE3Rwj8C8q)
 
+[![Rust Programming in 2 hours](rusty/Assets/Learn Rust Programming in 2 Hors.png)](https://youtu.be/RU7BYxmSBNg?si=ZcgmrurE3Rwj8C8q "Learn Rust Programming in 2 Hours")
+
 * Here is where I left off: ![Learn Rust Programming in 2 Hours](https://youtu.be/RU7BYxmSBNg?si=ZcgmrurE3Rwj8C8q&t=3065)
