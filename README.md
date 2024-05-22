@@ -21,4 +21,6 @@ to Sharpen my skillset.
 
 2. Created this Repo for storing code and making changes
 
-3. I'll start by watching this video: https://youtu.be/RU7BYxmSBNg?si=IrvFGIoUSkbTij6z
+3. I started watching the YouTube video ![Learn Rust Programming in 2 Hours](https://youtu.be/RU7BYxmSBNg?si=ZcgmrurE3Rwj8C8q)
+
+* Here is where I left off: ![Learn Rust Programming in 2 Hours](https://youtu.be/RU7BYxmSBNg?si=ZcgmrurE3Rwj8C8q&t=3065)

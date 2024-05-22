@@ -50,7 +50,7 @@ println!("Math in Rust: {} + {} = {}", x, y, x+y);
 
 //Constants
 /*
-const need ALL CAPS - 
+const need ALL CAPS - These are global immutable and fast
 */
 const NUMBER: i32 = 17;
 println!("{}", NUMBER);
